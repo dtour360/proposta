@@ -1,0 +1,79 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_ABEDEED0_B409_EA44_41E3_FEEF0763E93C.source = https://contate.me/jijocareservatour
+LinkBehaviour_F499F48F_EA5E_CD18_41ED_442B4FF2DEE3.source = https://contate.me/jijocareservatour
+LinkBehaviour_F6BD9B94_EA5F_BB09_41CD_B4591228FC72.source = https://contate.me/jijocareservatour
+LinkBehaviour_A7D0E515_E351_9C76_41D5_BD1D99C79209.source = https://contate.me/jijocareservatour
+WebFrame_A99FE9E0_B40A_5644_41DF_ECA784C60785_mobile.url = https://jijocabr.com.br
+LinkBehaviour_F108ACE5_E637_F76A_41D9_5FDF9EEE7F74.source = https://jijocabr.com.br/
+LinkBehaviour_A7C704DF_E351_9DF2_41E6_4172B9049350.source = https://jijocabr.com.br/
+WebFrame_A99FE9E0_B40A_5644_41DF_ECA784C60785.url = https://jijocabr.com.br/
+LinkBehaviour_0EA82693_16A5_E3A1_41A5_BF9D653BB869.source = https://m.uber.com/ul/?action=setPickup&pickup=my_location&dropoff[formatted_address]=Restaurante%20Jijoca%20Br%20Frutos%20do%20Mar%20Brasília&dropoff[latitude]=-15.80883670&dropoff[longitude]=-47.88556910
+
+
+LinkBehaviour_A7D27512_E351_9C72_41E1_D2961E0AB88A.source = https://ul.waze.com/ul?place=ChIJY911DDo7WpMR1w_SyCNnRgI&ll=-15.80882390%2C-47.88558820&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location
+WebFrame_6EF9D945_597C_4093_41C4_38AB28685800_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3838.907629170154!2d-47.88816312486954!3d-15.808823884833558!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a3b3a0c75dd63%3A0x2466723c8d20fd7!2sRestaurante%20Jijoca%20Br%20Frutos%20do%20Mar%20Bras%C3%ADlia%20DF!5e0!3m2!1spt-BR!2sbr!4v1717891791892!5m2!1spt-BR!2sbr
+WebFrame_6EF9D945_597C_4093_41C4_38AB28685800.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3838.907629170154!2d-47.88816312486954!3d-15.808823884833558!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a3b3a0c75dd63%3A0x2466723c8d20fd7!2sRestaurante%20Jijoca%20Br%20Frutos%20do%20Mar%20Bras%C3%ADlia%20DF!5e0!3m2!1spt-BR!2sbr!4v1717891791892!5m2!1spt-BR!2sbr
+LinkBehaviour_DBE5DB9D_FA0D_829D_41EE_CDF631C85D19.source = https://www.ifood.com.br/delivery/brasilia-df/jijoca---frutos-do-mar-e-carnes-asa-sul/114c980f-d5c3-419e-bdea-083c6f676a8e?utm_medium=share
+LinkBehaviour_D8D52FDD_FA76_82E2_419F_143A3A157400.source = https://www.ifood.com.br/delivery/brasilia-df/jijoca---frutos-do-mar-e-carnes-asa-sul/114c980f-d5c3-419e-bdea-083c6f676a8e?utm_medium=share
+LinkBehaviour_AA48FAA8_B40A_6AC4_41E0_40228CCE951B.source = https://www.instagram.com/jijocabr/
+LinkBehaviour_A7D3A514_E351_9C76_41E9_1AC128DD0870.source = https://www.instagram.com/jijocabr/
+LinkBehaviour_AA13F258_B40E_5A44_41E6_642C04F41C6B.source = https://www.youtube.com/@JijocaRestaurantefrutosdomar
+WebFrame_D842CFFC_FA15_82A2_41B3_D9A639D461C3.url = //www.youtube.com/embed/Sevr8BpgLKY?si=K6zqWHtXkzcJkjMW
+WebFrame_E45E8191_FA1E_BF65_41C3_6C505C657F88.url = //www.youtube.com/embed/Sevr8BpgLKY?si=QMQ78qd0ZvAyxrOG
+LinkBehaviour_A7D0A518_E351_9C7F_41E2_2BF0597CCB0D.source = tel:+556135489180
+
+## Media
+
+### Title
+panorama_F2DF2E3D_EB6C_61B8_41EC_BE057810873F.label = Entrada
+
+## Skin
+
+### Button
+Button_E228686C_C2B5_78F1_41DB_DAA25E042FB4.label = Audio (On)
+Button_E228686C_C2B5_78F1_41DB_DAA25E042FB4_mobile.label = Audio (On)
+Button_E228686C_C2B5_78F1_41DB_DAA25E042FB4.pressedLabel = Audio Mute
+Button_E228686C_C2B5_78F1_41DB_DAA25E042FB4_mobile.pressedLabel = Audio Mute
+Button_E264D55C_C2B2_C8D1_41E3_D350441B9D5D.pressedLabel = Enter VR
+Button_E264D55C_C2B2_C8D1_41E3_D350441B9D5D_mobile.label = Enter VR
+Button_E264D55C_C2B2_C8D1_41E3_D350441B9D5D_mobile.pressedLabel = Enter VR
+Button_E264D55C_C2B2_C8D1_41E3_D350441B9D5D.label = Enter VR
+Button_E2C59C17_C2CD_D85F_41E7_9F6D79367795_mobile.pressedLabel = Full Screen (Off)
+Button_E2C59C17_C2CD_D85F_41E7_9F6D79367795.pressedLabel = Full Screen (Off)
+Button_E2C59C17_C2CD_D85F_41E7_9F6D79367795.label = Full Screen (On)
+Button_E2C59C17_C2CD_D85F_41E7_9F6D79367795_mobile.label = Full Screen (On)
+Button_E267DDD4_C2B5_5BD1_41CE_68CA3559B9AC_mobile.pressedLabel = Hotspots (Off)
+Button_E267DDD4_C2B5_5BD1_41CE_68CA3559B9AC.pressedLabel = Hotspots (Off)
+Button_E267DDD4_C2B5_5BD1_41CE_68CA3559B9AC.label = Hotspots (On)
+Button_E267DDD4_C2B5_5BD1_41CE_68CA3559B9AC_mobile.label = Hotspots (On)
+Button_E27E9EC4_C2B2_B830_41DB_F8C42F6D88AF_mobile.pressedLabel = Sticker (Off)
+Button_E27E9EC4_C2B2_B830_41DB_F8C42F6D88AF.pressedLabel = Sticker (Off)
+Button_E27E9EC4_C2B2_B830_41DB_F8C42F6D88AF_mobile.label = Sticker (On)
+Button_E27E9EC4_C2B2_B830_41DB_F8C42F6D88AF.label = Sticker (On)
+
+### Image
+Image_C9F34A45_D885_AF4F_41C1_92E1CF826AFF_mobile.path = null
+Image_C9F34A45_D885_AF4F_41C1_92E1CF826AFF.path = null
+Image_F448CAAF_EA59_4518_41C1_105DF091ABE4.path = null
+Image_F7FCB49A_EA5B_4D38_41D6_57D6F9840A02.path = null
+Image_C9F34A45_D885_AF4F_41C1_92E1CF826AFF_mobile.url = skin/Image_C9F34A45_D885_AF4F_41C1_92E1CF826AFF_mobile_pt.jpg
+Image_C9F34A45_D885_AF4F_41C1_92E1CF826AFF.url = skin/Image_C9F34A45_D885_AF4F_41C1_92E1CF826AFF_pt.png
+Image_F448CAAF_EA59_4518_41C1_105DF091ABE4.url = skin/Image_F448CAAF_EA59_4518_41C1_105DF091ABE4_pt.png
+Image_F7FCB49A_EA5B_4D38_41D6_57D6F9840A02.url = skin/Image_F7FCB49A_EA5B_4D38_41D6_57D6F9840A02_pt.png
+
+### Multiline Text
+HTMLText_DE8F7F3A_FA17_83A6_41E4_EC5C870C1037.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;"><B>Nossa área externa é 100% Pet Friendly e o seu pet pode relaxar enquanto você aproveita o seu pedido.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;"><B>Faça sua reserva e traga o seu “aumigo” para nos visitar!</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_E4E75AB3_FA0D_82A6_41EC_F776D2C27140.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:18px;"><B>Nossa área externa é 100% Pet Friendly e o seu pet pode relaxar enquanto você aproveita o seu pedido.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:18px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:18px;"><B>Faça sua reserva e traga o seu “aumigo” para nos visitar!</B></SPAN></SPAN></DIV></div>
+HTMLText_DBD9A2D5_CB8F_E270_41CC_B50330D65B1D_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 1.5px rgba(0,0,0,0.5);text-align:left;font-size:4.166666666666668vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:4.17vmin;font-family:'Volkhov';"><B>{{title}}</B></SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 0px 1.5px rgba(0,0,0,0.5);text-align:left;font-size:1.807909604519772vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.81vmin;font-family:'Source Sans Pro';">{{subtitle}}</SPAN></SPAN></DIV></div>
+HTMLText_DBD9A2D5_CB8F_E270_41CC_B50330D65B1D.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 3px rgba(0,0,0,0.5);text-align:left;font-size:4.1884816753926675vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:4.19vmin;font-family:'Volkhov';"><B>{{title}}</B></SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 0px 3px rgba(0,0,0,0.5);text-align:left;font-size:1.807909604519772vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.81vmin;font-family:'Source Sans Pro';">{{subtitle}}</SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = proposta comercial
